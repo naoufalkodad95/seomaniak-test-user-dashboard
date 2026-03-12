@@ -1,0 +1,17 @@
+.bg-gradient-primary {
+  background: linear-gradient(45deg, #4e73df, #224abe);
+}
+
+.list-group-item {
+  transition: all 0.2s ease;
+}
+
+.list-group-item:hover {
+  transform: translateX(5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1) !important;
+}
+
+.btn-check:checked + .btn-outline-primary {
+  background-color: #4e73df;
+  border-color: #4e73df;
+}
