@@ -210,13 +210,26 @@ Les statistiques se mettent à jour automatiquement :
 Ajouter dans le dossier **screenshots**
 
 ```
-### 🏠 Dashboard principal
+### Dashboard
+![Dashboard](capture/dashboard.png)
 
-<img width="1916" height="1035" alt="dashbord" src="https://github.com/user-attachments/assets/e8393f30-a3d1-44ce-ad8e-03ae37bf371e" />
+### Ajouter utilisateur
+![Ajouter](screenshots/ajouter.png)
 
-Lien de l'image :  
-https://github.com/user-attachments/assets/e8393f30-a3d1-44ce-ad8e-03ae37bf371e
+### Liste utilisateurs
+![Lister](screenshots/lister.png)
 
+### Statistiques
+![Stats](screenshots/stat.png)
+
+### Modifier utilisateur
+![Modifier](screenshots/modifier.png)
+
+### Supprimer utilisateur
+![Supprimer](screenshots/supprimer.png)
+
+### Supprimer tous
+![Supprimer tous](screenshots/supprimer-tout.png)
 
 
 
