@@ -210,7 +210,7 @@ Les statistiques se mettent à jour automatiquement :
 Ajouter dans le dossier **screenshots**
 
 ### Dashboard
-![Dashboard](capture/dashboard.png)
+![Dashboard](capture/dashbord.png)
 
 ### Ajouter utilisateur
 ![Ajouter](capture/ajouter.png)
