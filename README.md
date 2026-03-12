@@ -210,13 +210,14 @@ Les statistiques se mettent à jour automatiquement :
 Ajouter dans le dossier **screenshots**
 
 ```
+### 🏠 Dashboard principal
+
 <img width="1916" height="1035" alt="dashbord" src="https://github.com/user-attachments/assets/e8393f30-a3d1-44ce-ad8e-03ae37bf371e" />
-<img width="707" height="1028" alt="ajouter" src="https://github.com/user-attachments/assets/9ef07ba9-c00f-4ca8-92eb-8cd14bf4e57a" />
-<img width="1000" height="576" alt="lister" src="https://github.com/user-attachments/assets/b36a836f-e484-413e-95f2-f4e0e6f6d7b3" />
-<img width="1817" height="557" alt="stat" src="https://github.com/user-attachments/assets/02e2fa7e-30f4-44fd-9fde-47088c204f48" />
-<img width="782" height="922" alt="modifie" src="https://github.com/user-attachments/assets/785452ef-5e88-40bc-8a2d-bcc821093e2a" />
-<img width="1892" height="806" alt="supp" src="https://github.com/user-attachments/assets/685fcd6e-ad9a-4919-9018-e7e25b657820" />
-<img width="1862" height="816" alt="suppr tous" src="https://github.com/user-attachments/assets/94a2155f-19c5-44b0-bfbe-202c7b35c6fc" />
+
+Lien de l'image :  
+https://github.com/user-attachments/assets/e8393f30-a3d1-44ce-ad8e-03ae37bf371e
+
+
 
 
 ```
