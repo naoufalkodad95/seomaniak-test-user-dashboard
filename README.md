@@ -222,13 +222,13 @@ Ajouter dans le dossier **screenshots**
 ![Stats](capture/stat.png)
 
 ### Modifier utilisateur
-![Modifier](capture/modifier.png)
+![Modifier](capture/modifie.png)
 
 ### Supprimer utilisateur
-![Supprimer](capture/supprimer.png)
+![Supprimer](capture/supp.png)
 
 ### Supprimer tous
-![Supprimer tous](capture/supprimer-tout.png)
+![Supprimer tous](capture/suppr tous.png)
 
 
 
