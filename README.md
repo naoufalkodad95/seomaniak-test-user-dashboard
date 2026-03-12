@@ -209,31 +209,29 @@ Les statistiques se mettent à jour automatiquement :
 
 Ajouter dans le dossier **screenshots**
 
-```
 ### Dashboard
 ![Dashboard](capture/dashboard.png)
 
 ### Ajouter utilisateur
-![Ajouter](screenshots/ajouter.png)
+![Ajouter](capture/ajouter.png)
 
 ### Liste utilisateurs
-![Lister](screenshots/lister.png)
+![Lister](capture/lister.png)
 
 ### Statistiques
-![Stats](screenshots/stat.png)
+![Stats](capture/stat.png)
 
 ### Modifier utilisateur
-![Modifier](screenshots/modifier.png)
+![Modifier](capture/modifier.png)
 
 ### Supprimer utilisateur
-![Supprimer](screenshots/supprimer.png)
+![Supprimer](capture/supprimer.png)
 
 ### Supprimer tous
-![Supprimer tous](screenshots/supprimer-tout.png)
+![Supprimer tous](capture/supprimer-tout.png)
 
 
 
-```
 
 ---
 
