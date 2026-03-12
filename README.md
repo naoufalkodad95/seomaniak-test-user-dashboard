@@ -228,12 +228,8 @@ Ajouter dans le dossier **screenshots**
 ![Supprimer](capture/supp.png)
 
 ### Supprimer tous
-![Supprimer tous](capture/suppr tous.png)
+![Supprimer tous](capture/supprtous.png)
 
-
-
-
----
 
 # 💡 Ce que j'ai appris
 
